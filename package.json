@@ -1,0 +1,28 @@
+{
+  "name": "energy-breakdown-card",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "An energy breakdown chart (donut or bar) for Home Assistant",
+  "keywords": [
+    "home-assistant",
+    "homeassistant",
+    "hass",
+    "dashboard",
+    "custom-cards",
+    "energy",
+    "breakdown",
+    "donut",
+    "bar",
+    "mushroom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flixlix/flixlix-cards.git"
+  },
+  "author": "flixlix",
+  "bugs": {
+    "url": "https://github.com/flixlix/flixlix-cards/issues"
+  },
+  "homepage": "https://github.com/flixlix/flixlix-cards#readme"
+}
